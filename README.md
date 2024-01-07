@@ -15,4 +15,4 @@
 * ⬆️ Pushed 1 commit to haliphax/ncfacbot
 * ⬆️ Pushed 1 commit to haliphax/aethersprite
 
-<small>Last refresh: `2024-01-07T09:15:49Z`</small>
+<small>Last refresh: `2024-01-07T10:17:46Z`</small>
