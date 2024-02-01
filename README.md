@@ -4,15 +4,15 @@
 
 ## Activity
 
+* ⬆️ Pushed 1 commit to realm-ttrpg/.github
+* ❗️ Closed issue #1 in realm-ttrpg/schema
+* ❗️ Opened issue #1 in realm-ttrpg/schema
+* ❗️ Opened issue #2 in realm-ttrpg/docker-compose
+* ❗️ Closed issue #1 in realm-ttrpg/docker-compose
+* ❗️ Opened issue #1 in realm-ttrpg/docker-compose
+* ❗️ Opened issue #6 in realm-ttrpg/discord-bot
+* ⬆️ Pushed 1 commit to realm-ttrpg/.github
+* ❗️ Opened issue #1 in realm-ttrpg/web-interface
 * ❗️ Opened issue #5 in realm-ttrpg/discord-bot
-* ❗️ Opened issue #3 in realm-ttrpg/api-server
-* ❗️ Opened issue #2 in realm-ttrpg/api-server
-* ❗️ Closed issue #1 in realm-ttrpg/api-server
-* ⬆️ Pushed 1 commit to realm-ttrpg/.github
-* ⬆️ Pushed 1 commit to realm-ttrpg/.github
-* ⬆️ Pushed 1 commit to realm-ttrpg/api-server
-* ⬆️ Pushed 1 commit to realm-ttrpg/web-interface
-* ⬆️ Pushed 1 commit to realm-ttrpg/discord-bot
-* ⬆️ Pushed 1 commit to realm-ttrpg/discord-bot
 
-<small>Last refresh: `2024-02-01T20:16:43Z`</small>
+<small>Last refresh: `2024-02-01T21:15:08Z`</small>
