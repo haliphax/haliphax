@@ -4,6 +4,7 @@
 
 ## Activity
 
+* ❗️ Opened issue #4 in realm-ttrpg/discord-bot
 * ⬆️ Pushed 1 commit to haliphax/ktor-starter-project
 * 🎉 Merged PR #347 in haliphax/ktor-starter-project
 * ⬆️ Pushed 1 commit to haliphax/aethersprite
@@ -13,6 +14,5 @@
 * ⬆️ Pushed 1 commit to haliphax/xthulu
 * 🎉 Merged PR #133 in haliphax/xthulu
 * ⬆️ Pushed 1 commit to haliphax/yt-siren
-* 🎉 Merged PR #25 in haliphax/yt-siren
 
-<small>Last refresh: `2024-02-01T02:25:37Z`</small>
+<small>Last refresh: `2024-02-01T03:17:49Z`</small>
