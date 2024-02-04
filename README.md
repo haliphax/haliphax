@@ -15,4 +15,4 @@
 * ❗️ Opened issue #1 in realm-ttrpg/web-interface
 * ❗️ Opened issue #5 in realm-ttrpg/discord-bot
 
-<small>Last refresh: `2024-02-04T16:19:04Z`</small>
+<small>Last refresh: `2024-02-04T17:14:09Z`</small>
