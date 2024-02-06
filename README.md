@@ -15,4 +15,4 @@
 * ⬆️ Pushed 1 commit to realm-ttrpg/.github
 * ❗️ Closed issue #1 in realm-ttrpg/schema
 
-<small>Last refresh: `2024-02-06T14:15:42Z`</small>
+<small>Last refresh: `2024-02-06T15:16:33Z`</small>
