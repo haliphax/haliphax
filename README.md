@@ -15,4 +15,4 @@
 * ⬆️ Pushed 1 commit to haliphax/ktor-starter-project
 * 🎉 Merged PR #350 in haliphax/ktor-starter-project
 
-<small>Last refresh: `2024-02-12T14:15:37Z`</small>
+<small>Last refresh: `2024-02-12T15:17:10Z`</small>
