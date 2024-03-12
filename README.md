@@ -4,6 +4,8 @@
 
 ## Activity
 
+* ⬆️ Pushed 1 commit to haliphax/ktor-starter-project
+* 🎉 Merged PR #386 in haliphax/ktor-starter-project
 * ❗️ Closed issue #2 in haliphax/aperture
 * 🗣 Commented on #2 in haliphax/aperture
 * ⬆️ Pushed 1 commit to haliphax/ktor-starter-project
@@ -12,7 +14,5 @@
 * ⬆️ Pushed 1 commit to haliphax/narf
 * ⬆️ Pushed 1 commit to haliphax/aethersprite
 * ⬆️ Pushed 1 commit to haliphax/xthulu
-* ⬆️ Pushed 1 commit to haliphax/xthulu
-* ⬆️ Pushed 2 commits to haliphax/haliphax-dot-dev
 
-<small>Last refresh: `2024-03-12T17:15:41Z`</small>
+<small>Last refresh: `2024-03-12T18:20:51Z`</small>
