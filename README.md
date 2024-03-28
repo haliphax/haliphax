@@ -6,13 +6,13 @@
 
 * ⬆️ Pushed 1 commit to haliphax/xthulu
 * ⬆️ Pushed 1 commit to haliphax/xthulu
+* ⬆️ Pushed 2 commits to haliphax/xthulu
 * ⬆️ Pushed 1 commit to haliphax/xthulu
 * ⬆️ Pushed 1 commit to haliphax/xthulu
 * ⬆️ Pushed 1 commit to haliphax/xthulu
 * ⬆️ Pushed 1 commit to haliphax/xthulu
-* ⬆️ Pushed 1 commit to haliphax/xthulu
-* ⬆️ Pushed 1 commit to haliphax/xthulu
-* ⬆️ Pushed 1 commit to haliphax/xthulu
-* ⬆️ Pushed 1 commit to haliphax/xthulu
+* ❗️ Opened issue #144 in haliphax/xthulu
+* ❗️ Opened issue #143 in haliphax/xthulu
+* ❗️ Opened issue #142 in haliphax/xthulu
 
-<small>Last refresh: `2024-03-28T22:15:37Z`</small>
+<small>Last refresh: `2024-03-28T23:16:42Z`</small>
