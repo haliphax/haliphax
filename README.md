@@ -15,4 +15,4 @@
 * ❗️ Opened issue #143 in haliphax/xthulu
 * ❗️ Opened issue #142 in haliphax/xthulu
 
-<small>Last refresh: `2024-03-31T10:17:16Z`</small>
+<small>Last refresh: `2024-03-31T11:13:31Z`</small>
