@@ -4,6 +4,8 @@
 
 ## Activity
 
+* 🗣 Commented on #4375 in Textualize/textual
+* ❗️ Opened issue #4375 in Textualize/textual
 * ⬆️ Pushed 1 commit to haliphax/xthulu
 * ⬆️ Pushed 1 commit to haliphax/xthulu
 * ⬆️ Pushed 1 commit to haliphax/xthulu
@@ -11,8 +13,6 @@
 * ⬆️ Pushed 2 commits to haliphax/xthulu
 * ⬆️ Pushed 1 commit to haliphax/xthulu
 * ⬆️ Pushed 1 commit to haliphax/xthulu
-* ⬆️ Pushed 1 commit to haliphax/xthulu
-* ⬆️ Pushed 2 commits to haliphax/xthulu
 * ⬆️ Pushed 1 commit to haliphax/xthulu
 
-<small>Last refresh: `2024-04-01T18:20:44Z`</small>
+<small>Last refresh: `2024-04-01T19:13:45Z`</small>
