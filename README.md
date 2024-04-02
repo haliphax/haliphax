@@ -5,14 +5,14 @@
 ## Activity
 
 * ⬆️ Pushed 1 commit to haliphax/xthulu
-* ⬆️ Pushed 2 commits to haliphax/xthulu
-* ⬆️ Pushed 1 commit to haliphax/xthulu
-* 🗣 Commented on #4375 in Textualize/textual
-* 🗣 Commented on #4375 in Textualize/textual
-* ❗️ Opened issue #4375 in Textualize/textual
 * ⬆️ Pushed 1 commit to haliphax/xthulu
 * ⬆️ Pushed 1 commit to haliphax/xthulu
+* ❗️ Opened issue #3 in haliphax/nubbins
 * ⬆️ Pushed 1 commit to haliphax/xthulu
+* 📦 Released "v0.8.1" in haliphax/xthulu
+* ⬆️ Pushed 1 commit to haliphax/xthulu
+* ⬆️ Pushed 1 commit to haliphax/xthulu
+* 📦 Released "v0.8.0" in haliphax/xthulu
 * ⬆️ Pushed 1 commit to haliphax/xthulu
 
-<small>Last refresh: `2024-04-02T03:19:25Z`</small>
+<small>Last refresh: `2024-04-02T04:19:50Z`</small>
