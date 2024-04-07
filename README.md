@@ -15,4 +15,4 @@
 * 📦 Released "v0.8.1" in haliphax/xthulu
 * ⬆️ Pushed 1 commit to haliphax/xthulu
 
-<small>Last refresh: `2024-04-07T18:19:47Z`</small>
+<small>Last refresh: `2024-04-07T19:12:33Z`</small>
