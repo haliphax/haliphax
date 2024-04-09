@@ -4,6 +4,8 @@
 
 ## Activity
 
+* ⬆️ Pushed 1 commit to haliphax/yt-siren
+* 🎉 Merged PR #27 in haliphax/yt-siren
 * ⬆️ Pushed 1 commit to haliphax/narf
 * 🎉 Merged PR #113 in haliphax/narf
 * ⬆️ Pushed 1 commit to haliphax/xthulu
@@ -12,7 +14,5 @@
 * ⬆️ Pushed 1 commit to haliphax/xthulu
 * ❗️ Opened issue #3 in haliphax/nubbins
 * ⬆️ Pushed 1 commit to haliphax/xthulu
-* 📦 Released "v0.8.1" in haliphax/xthulu
-* ⬆️ Pushed 1 commit to haliphax/xthulu
 
-<small>Last refresh: `2024-04-09T15:18:07Z`</small>
+<small>Last refresh: `2024-04-09T16:19:58Z`</small>
