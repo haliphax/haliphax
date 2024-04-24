@@ -4,6 +4,9 @@
 
 ## Activity
 
+* ⬆️ Pushed 1 commit to haliphax/haliphax-dot-dev
+* ⬆️ Pushed 1 commit to haliphax/haliphax-dot-dev
+* ⬆️ Pushed 1 commit to haliphax/haliphax-dot-dev
 * ⬆️ Pushed 1 commit to haliphax/nix-config
 * ⬆️ Pushed 1 commit to haliphax/nix-config
 * ⬆️ Pushed 1 commit to haliphax/haliphax-dot-dev
@@ -11,8 +14,5 @@
 * ⬆️ Pushed 1 commit to haliphax/aethersprite
 * 🎉 Merged PR #32 in haliphax/aethersprite
 * ⬆️ Pushed 1 commit to haliphax/xthulu
-* 🎉 Merged PR #145 in haliphax/xthulu
-* ⬆️ Pushed 1 commit to haliphax/aethersprite
-* 🎉 Merged PR #31 in haliphax/aethersprite
 
-<small>Last refresh: `2024-04-24T17:17:19Z`</small>
+<small>Last refresh: `2024-04-24T18:20:57Z`</small>
