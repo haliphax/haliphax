@@ -4,6 +4,8 @@
 
 ## Activity
 
+* ⬆️ Pushed 1 commit to haliphax/xthulu
+* ⬆️ Pushed 1 commit to haliphax/xthulu
 * ⬆️ Pushed 1 commit to haliphax/ktor-starter-project
 * 🎉 Merged PR #429 in haliphax/ktor-starter-project
 * ❌ Closed PR #420 in haliphax/ktor-starter-project
@@ -12,7 +14,5 @@
 * ⬆️ Pushed 2 commits to haliphax/ktor-starter-project
 * 💪 Opened PR #429 in haliphax/ktor-starter-project
 * ❌ Closed PR #114 in haliphax/narf
-* 📦 Released "v1.11.1" in haliphax/narf
-* ⬆️ Pushed 1 commit to haliphax/narf
 
-<small>Last refresh: `2024-06-10T19:15:17Z`</small>
+<small>Last refresh: `2024-06-10T20:19:09Z`</small>
