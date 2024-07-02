@@ -4,6 +4,8 @@
 
 ## Activity
 
+* 🎉 Merged PR #146 in haliphax/xthulu
+* ⬆️ Pushed 1 commit to haliphax/xthulu
 * ⬆️ Pushed 1 commit to haliphax/haliphax-dot-dev
 * 🎉 Merged PR #146 in haliphax/haliphax-dot-dev
 * 🗣 Commented on #146 in haliphax/haliphax-dot-dev
@@ -12,7 +14,5 @@
 * 🗣 Commented on #145 in haliphax/haliphax-dot-dev
 * ⬆️ Pushed 1 commit to haliphax/haliphax-dot-dev
 * 🎉 Merged PR #144 in haliphax/haliphax-dot-dev
-* ⬆️ Pushed 1 commit to haliphax/narf
-* 🎉 Merged PR #116 in haliphax/narf
 
-<small>Last refresh: `2024-07-02T14:16:41Z`</small>
+<small>Last refresh: `2024-07-02T15:18:43Z`</small>
