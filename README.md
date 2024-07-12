@@ -4,15 +4,15 @@
 
 ## Activity
 
-* 🎉 Merged PR #146 in haliphax/xthulu
 * ⬆️ Pushed 1 commit to haliphax/xthulu
-* ⬆️ Pushed 1 commit to haliphax/haliphax-dot-dev
-* 🎉 Merged PR #146 in haliphax/haliphax-dot-dev
-* 🗣 Commented on #146 in haliphax/haliphax-dot-dev
-* ⬆️ Pushed 1 commit to haliphax/haliphax-dot-dev
-* 🎉 Merged PR #145 in haliphax/haliphax-dot-dev
-* 🗣 Commented on #145 in haliphax/haliphax-dot-dev
-* ⬆️ Pushed 1 commit to haliphax/haliphax-dot-dev
-* 🎉 Merged PR #144 in haliphax/haliphax-dot-dev
+* ⬆️ Pushed 1 commit to haliphax/xthulu
+* ⬆️ Pushed 1 commit to haliphax/xthulu
+* 📦 Released "v0.10.0" in haliphax/xthulu
+* ⬆️ Pushed 1 commit to haliphax/xthulu
+* ⬆️ Pushed 1 commit to haliphax/xthulu
+* 🎉 Merged PR #147 in haliphax/xthulu
+* 🗣 Commented on #147 in haliphax/xthulu
+* ⬆️ Pushed 1 commit to haliphax/xthulu
+* ⬆️ Pushed 1 commit to haliphax/xthulu
 
-<small>Last refresh: `2024-07-12T03:21:34Z`</small>
+<small>Last refresh: `2024-07-12T04:21:40Z`</small>
