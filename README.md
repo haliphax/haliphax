@@ -4,6 +4,7 @@
 
 ## Activity
 
+* 🗣 Commented on #591 in locaal-ai/obs-backgroundremoval
 * ⬆️ Pushed 1 commit to haliphax/xthulu
 * 🎉 Merged PR #153 in haliphax/xthulu
 * ⬆️ Pushed 1 commit to haliphax/narf
@@ -13,6 +14,5 @@
 * ⬆️ Pushed 1 commit to haliphax/narf
 * ⬆️ Pushed 1 commit to haliphax/narf
 * 📦 Released "v1.13.0" in haliphax/narf
-* ⬆️ Pushed 1 commit to haliphax/narf
 
-<small>Last refresh: `2024-12-06T23:21:37Z`</small>
+<small>Last refresh: `2024-12-07T01:49:56Z`</small>
