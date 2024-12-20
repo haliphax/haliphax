@@ -4,6 +4,7 @@
 
 ## Activity
 
+* 📦 Released "v1.14.3" in haliphax/narf
 * ⬆️ Pushed 1 commit to haliphax/narf
 * ⬆️ Pushed 1 commit to haliphax/narf
 * ⬆️ Pushed 1 commit to haliphax/narf
@@ -13,6 +14,5 @@
 * ⬆️ Pushed 1 commit to haliphax/narf
 * ⬆️ Pushed 1 commit to haliphax/narf
 * ⬆️ Pushed 1 commit to haliphax/narf
-* ❗️ Closed issue #130 in haliphax/narf
 
-<small>Last refresh: `2024-12-20T17:18:43Z`</small>
+<small>Last refresh: `2024-12-20T18:28:31Z`</small>
