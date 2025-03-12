@@ -4,6 +4,8 @@
 
 ## Activity
 
+* ⬆️ Pushed 1 commit to haliphax/haliphax-dot-dev
+* 🎉 Merged PR #148 in haliphax/haliphax-dot-dev
 * ⬆️ Pushed 1 commit to realm-ttrpg/web-interface
 * ❌ Closed PR #4 in realm-ttrpg/web-interface
 * 💪 Opened PR #4 in realm-ttrpg/web-interface
@@ -12,7 +14,5 @@
 * ❌ Closed PR #6 in realm-ttrpg/api-server
 * 💪 Opened PR #6 in realm-ttrpg/api-server
 * ⬆️ Pushed 1 commit to realm-ttrpg/web-interface
-* ⬆️ Pushed 1 commit to realm-ttrpg/web-interface
-* ⬆️ Pushed 1 commit to realm-ttrpg/web-interface
 
-<small>Last refresh: `2025-03-12T13:29:48Z`</small>
+<small>Last refresh: `2025-03-12T14:22:01Z`</small>
