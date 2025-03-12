@@ -4,15 +4,15 @@
 
 ## Activity
 
+* 💪 Opened PR #6 in realm-ttrpg/api-server
+* ⬆️ Pushed 1 commit to realm-ttrpg/web-interface
+* ⬆️ Pushed 1 commit to realm-ttrpg/web-interface
+* ⬆️ Pushed 1 commit to realm-ttrpg/web-interface
 * ⬆️ Pushed 1 commit to realm-ttrpg/discord-bot
-* ❗️ Opened issue #3 in realm-ttrpg/web-interface
-* ❗️ Opened issue #8 in realm-ttrpg/discord-bot
-* ❗️ Opened issue #5 in realm-ttrpg/api-server
-* ⬆️ Pushed 1 commit to realm-ttrpg/.github
-* ⬆️ Pushed 1 commit to realm-ttrpg/.github
-* ⬆️ Pushed 1 commit to realm-ttrpg/web-interface
-* ⬆️ Pushed 1 commit to realm-ttrpg/web-interface
-* ⬆️ Pushed 1 commit to realm-ttrpg/web-interface
-* ⬆️ Pushed 1 commit to realm-ttrpg/web-interface
+* ⬆️ Pushed 1 commit to realm-ttrpg/api-server
+* ❌ Closed PR #9 in realm-ttrpg/discord-bot
+* ⬆️ Pushed 1 commit to realm-ttrpg/discord-bot
+* ⬆️ Pushed 1 commit to realm-ttrpg/discord-bot
+* ⬆️ Pushed 1 commit to realm-ttrpg/discord-bot
 
-<small>Last refresh: `2025-03-12T10:23:48Z`</small>
+<small>Last refresh: `2025-03-12T11:18:10Z`</small>
