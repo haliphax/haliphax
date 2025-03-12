@@ -15,4 +15,4 @@
 * 💪 Opened PR #6 in realm-ttrpg/api-server
 * ⬆️ Pushed 1 commit to realm-ttrpg/web-interface
 
-<small>Last refresh: `2025-03-12T14:22:01Z`</small>
+<small>Last refresh: `2025-03-12T15:25:13Z`</small>
