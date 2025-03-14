@@ -15,4 +15,4 @@
 * ⬆️ Pushed 2 commits to realm-ttrpg/schema
 * ❗️ Closed issue #3 in realm-ttrpg/web-interface
 
-<small>Last refresh: `2025-03-14T09:23:28Z`</small>
+<small>Last refresh: `2025-03-14T10:23:26Z`</small>
