@@ -15,4 +15,4 @@
 * 🎉 Merged PR #36 in haliphax/aethersprite
 * ⬆️ Pushed 1 commit to haliphax/narf
 
-<small>Last refresh: `2025-05-07T23:22:37Z`</small>
+<small>Last refresh: `2025-05-08T01:58:39Z`</small>
