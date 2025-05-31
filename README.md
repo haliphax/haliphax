@@ -15,4 +15,4 @@
 * ⬆️ Pushed 1 commit to haliphax/hexcrawl
 * ⬆️ Pushed 1 commit to haliphax/hexcrawl
 
-<small>Last refresh: `2025-05-31T01:57:08Z`</small>
+<small>Last refresh: `2025-05-31T03:14:01Z`</small>
