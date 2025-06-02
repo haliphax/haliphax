@@ -11,8 +11,8 @@
 * ⬆️ Pushed 1 commit to haliphax/hexcrawl
 * ⬆️ Pushed 1 commit to haliphax/hexcrawl
 * ⬆️ Pushed 1 commit to haliphax/hexcrawl
-* ❗️ Opened issue #144 in haliphax/narf
+* ⬆️ Pushed 1 commit to haliphax/hexcrawl
 * ⬆️ Pushed 1 commit to haliphax/hexcrawl
 * ⬆️ Pushed 1 commit to haliphax/hexcrawl
 
-<small>Last refresh: `2025-06-02T17:22:17Z`</small>
+<small>Last refresh: `2025-06-02T18:34:18Z`</small>
