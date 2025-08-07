@@ -6,8 +6,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v1.14.19](https://github.com/haliphax/narf/releases/tag/v1.14.19) in [haliphax/narf](https://github.com/haliphax/narf)
-2. 🎉 Merged PR [#148](https://github.com/haliphax/narf/pull/148) in [haliphax/narf](https://github.com/haliphax/narf)
-3. 🚀 Published release [v1.14.18](https://github.com/haliphax/narf/releases/tag/v1.14.18) in [haliphax/narf](https://github.com/haliphax/narf)
-4. 🎉 Merged PR [#147](https://github.com/haliphax/narf/pull/147) in [haliphax/narf](https://github.com/haliphax/narf)
+1. 🔒 Closed issue [#1](https://github.com/haliphax/xthulu/issues/1) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
+2. 🚀 Published release [v1.14.19](https://github.com/haliphax/narf/releases/tag/v1.14.19) in [haliphax/narf](https://github.com/haliphax/narf)
+3. 🎉 Merged PR [#148](https://github.com/haliphax/narf/pull/148) in [haliphax/narf](https://github.com/haliphax/narf)
+4. 🚀 Published release [v1.14.18](https://github.com/haliphax/narf/releases/tag/v1.14.18) in [haliphax/narf](https://github.com/haliphax/narf)
 <!--END_SECTION:activity-->
