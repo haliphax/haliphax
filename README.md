@@ -4,15 +4,5 @@
 
 ## Activity
 
-* 📦 Released "v1.14.19" in haliphax/narf
-* ⬆️ Pushed 1 commit to haliphax/narf
-* ⬆️ Pushed 1 commit to haliphax/narf
-* 🎉 Merged PR #148 in haliphax/narf
-* ⬆️ Pushed 1 commit to haliphax/narf
-* ⬆️ Pushed 1 commit to haliphax/narf
-* ⬆️ Pushed 1 commit to haliphax/narf
-* ⬆️ Pushed 1 commit to haliphax/narf
-* ⬆️ Pushed 1 commit to haliphax/narf
-* ⬆️ Pushed 1 commit to haliphax/haliphax
-
-<small>Last refresh: `2025-08-07T04:08:17Z`</small>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
