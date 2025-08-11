@@ -6,9 +6,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#158](https://github.com/haliphax/xthulu/issues/158) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
-2. 🔒 Closed issue [#1](https://github.com/haliphax/xthulu/issues/1) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
-3. 🚀 Published release [v1.14.19](https://github.com/haliphax/narf/releases/tag/v1.14.19) in [haliphax/narf](https://github.com/haliphax/narf)
-4. 🎉 Merged PR [#148](https://github.com/haliphax/narf/pull/148) in [haliphax/narf](https://github.com/haliphax/narf)
+1. 🎉 Merged PR [#161](https://github.com/haliphax/xthulu/pull/161) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
+2. ❗ Opened issue [#158](https://github.com/haliphax/xthulu/issues/158) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
+3. 🔒 Closed issue [#1](https://github.com/haliphax/xthulu/issues/1) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
+4. 🚀 Published release [v1.14.19](https://github.com/haliphax/narf/releases/tag/v1.14.19) in [haliphax/narf](https://github.com/haliphax/narf)
 <!--END_SECTION:activity-->
 
