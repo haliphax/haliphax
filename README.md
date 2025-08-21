@@ -6,9 +6,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#171](https://github.com/haliphax/xthulu/pull/171) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
-2. 🎉 Merged PR [#36](https://github.com/haliphax/yt-siren/pull/36) in [haliphax/yt-siren](https://github.com/haliphax/yt-siren)
-3. 🗣 Commented on [#140](https://github.com/haliphax/xthulu/issues/140#issuecomment-3190434932) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
-4. 🔒 Closed issue [#140](https://github.com/haliphax/xthulu/issues/140) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
+1. 💪 Opened PR [#172](https://github.com/haliphax/xthulu/pull/172) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
+2. 🎉 Merged PR [#171](https://github.com/haliphax/xthulu/pull/171) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
+3. 💪 Opened PR [#171](https://github.com/haliphax/xthulu/pull/171) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
+4. 🎉 Merged PR [#36](https://github.com/haliphax/yt-siren/pull/36) in [haliphax/yt-siren](https://github.com/haliphax/yt-siren)
 <!--END_SECTION:activity-->
 
