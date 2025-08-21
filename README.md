@@ -6,9 +6,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#172](https://github.com/haliphax/xthulu/pull/172) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
-2. 🎉 Merged PR [#171](https://github.com/haliphax/xthulu/pull/171) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
-3. 💪 Opened PR [#171](https://github.com/haliphax/xthulu/pull/171) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
-4. 🎉 Merged PR [#36](https://github.com/haliphax/yt-siren/pull/36) in [haliphax/yt-siren](https://github.com/haliphax/yt-siren)
+1. 🎉 Merged PR [#172](https://github.com/haliphax/xthulu/pull/172) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
+2. 💪 Opened PR [#172](https://github.com/haliphax/xthulu/pull/172) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
+3. 🎉 Merged PR [#171](https://github.com/haliphax/xthulu/pull/171) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
+4. 💪 Opened PR [#171](https://github.com/haliphax/xthulu/pull/171) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
 <!--END_SECTION:activity-->
 
