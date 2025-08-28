@@ -6,9 +6,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#173](https://github.com/haliphax/xthulu/pull/173) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
-2. 💪 Opened PR [#173](https://github.com/haliphax/xthulu/pull/173) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
-3. 🎉 Merged PR [#172](https://github.com/haliphax/xthulu/pull/172) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
-4. 💪 Opened PR [#172](https://github.com/haliphax/xthulu/pull/172) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
+1. ❗ Opened issue [#8](https://github.com/realm-ttrpg/api-server/issues/8) in [realm-ttrpg/api-server](https://github.com/realm-ttrpg/api-server)
+2. ❌ Closed PR [#173](https://github.com/haliphax/xthulu/pull/173) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
+3. 💪 Opened PR [#173](https://github.com/haliphax/xthulu/pull/173) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
+4. 🎉 Merged PR [#172](https://github.com/haliphax/xthulu/pull/172) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
 <!--END_SECTION:activity-->
 
