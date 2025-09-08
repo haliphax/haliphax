@@ -6,9 +6,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#9](https://github.com/realm-ttrpg/api-server/pull/9) in [realm-ttrpg/api-server](https://github.com/realm-ttrpg/api-server)
-2. 🎉 Merged PR [#11](https://github.com/realm-ttrpg/discord-bot/pull/11) in [realm-ttrpg/discord-bot](https://github.com/realm-ttrpg/discord-bot)
+1.  Labeled issue [#5](https://github.com/realm-ttrpg/web-interface/issues/5) in [realm-ttrpg/web-interface](https://github.com/realm-ttrpg/web-interface)
+2. ❗ Opened issue [#5](https://github.com/realm-ttrpg/web-interface/issues/5) in [realm-ttrpg/web-interface](https://github.com/realm-ttrpg/web-interface)
 3. 🔒 Closed issue [#6](https://github.com/realm-ttrpg/discord-bot/issues/6) in [realm-ttrpg/discord-bot](https://github.com/realm-ttrpg/discord-bot)
-4. 💪 Opened PR [#11](https://github.com/realm-ttrpg/discord-bot/pull/11) in [realm-ttrpg/discord-bot](https://github.com/realm-ttrpg/discord-bot)
+4. 💪 Opened PR [#11](undefined) in [realm-ttrpg/discord-bot](https://github.com/realm-ttrpg/discord-bot)
 <!--END_SECTION:activity-->
 
