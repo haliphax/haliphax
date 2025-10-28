@@ -6,9 +6,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v1.14.21](https://github.com/haliphax/narf/releases/tag/v1.14.21) in [haliphax/narf](https://github.com/haliphax/narf)
-2. 🚀 Published release [v1.14.20](https://github.com/haliphax/narf/releases/tag/v1.14.20) in [haliphax/narf](https://github.com/haliphax/narf)
-3. 🗣 Commented on [#151](https://github.com/haliphax/narf/pull/151#issuecomment-3335083415) in [haliphax/narf](https://github.com/haliphax/narf)
+1. 🚀 Published release [v1.14.22](https://github.com/haliphax/narf/releases/tag/v1.14.22) in [haliphax/narf](https://github.com/haliphax/narf)
+2. 🚀 Published release [v1.14.21](https://github.com/haliphax/narf/releases/tag/v1.14.21) in [haliphax/narf](https://github.com/haliphax/narf)
+3. 🚀 Published release [v1.14.20](https://github.com/haliphax/narf/releases/tag/v1.14.20) in [haliphax/narf](https://github.com/haliphax/narf)
 4. 🗣 Commented on [#150](https://github.com/haliphax/narf/pull/150#issuecomment-3335072471) in [haliphax/narf](https://github.com/haliphax/narf)
 <!--END_SECTION:activity-->
 
