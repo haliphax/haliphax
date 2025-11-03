@@ -12,9 +12,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#5](https://github.com/haliphax/nubbins/pull/5#issuecomment-3462822904) in [haliphax/nubbins](https://github.com/haliphax/nubbins)
-2. 💪 Opened PR [#6](undefined) in [haliphax/nubbins](https://github.com/haliphax/nubbins)
-3.  Labeled issue [#157](https://github.com/haliphax/narf/issues/157) in [haliphax/narf](https://github.com/haliphax/narf)
-4.  Unlabeled issue [#157](https://github.com/haliphax/narf/issues/157) in [haliphax/narf](https://github.com/haliphax/narf)
+1.  Labeled issue [#3](https://github.com/haliphax/nubbins/issues/3) in [haliphax/nubbins](https://github.com/haliphax/nubbins)
+2. 🗣 Commented on [#5](https://github.com/haliphax/nubbins/pull/5#issuecomment-3462822904) in [haliphax/nubbins](https://github.com/haliphax/nubbins)
+3. 💪 Opened PR [#6](undefined) in [haliphax/nubbins](https://github.com/haliphax/nubbins)
+4.  Labeled issue [#157](https://github.com/haliphax/narf/issues/157) in [haliphax/narf](https://github.com/haliphax/narf)
 <!--END_SECTION:activity-->
 
