@@ -12,9 +12,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#141](https://github.com/haliphax/xthulu/issues/141) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
-2. 🗣 Commented on [#141](https://github.com/haliphax/xthulu/issues/141#issuecomment-3489297408) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
-3.  Labeled issue [#3](https://github.com/haliphax/nubbins/issues/3) in [haliphax/nubbins](https://github.com/haliphax/nubbins)
-4. 🗣 Commented on [#5](https://github.com/haliphax/nubbins/pull/5#issuecomment-3462822904) in [haliphax/nubbins](https://github.com/haliphax/nubbins)
+1.  Labeled issue [#177](https://github.com/haliphax/xthulu/issues/177) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
+2. ❗ Opened issue [#177](https://github.com/haliphax/xthulu/issues/177) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
+3. 🔒 Closed issue [#141](https://github.com/haliphax/xthulu/issues/141) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
+4. 🗣 Commented on [#141](https://github.com/haliphax/xthulu/issues/141#issuecomment-3489297408) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
 <!--END_SECTION:activity-->
 
