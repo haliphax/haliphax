@@ -12,9 +12,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v0.11.0](https://github.com/haliphax/xthulu/releases/tag/v0.11.0) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
-2. 🔒 Closed issue [#185](https://github.com/haliphax/xthulu/issues/185) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
-3.  Labeled issue [#185](https://github.com/haliphax/xthulu/issues/185) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
-4. ❗ Opened issue [#185](https://github.com/haliphax/xthulu/issues/185) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
+1. 🗣 Commented on [#162](https://github.com/haliphax/narf/pull/162#issuecomment-3655765857) in [haliphax/narf](https://github.com/haliphax/narf)
+2. 🗣 Commented on [#161](https://github.com/haliphax/narf/pull/161#issuecomment-3655741286) in [haliphax/narf](https://github.com/haliphax/narf)
+3. 🚀 Published release [v0.11.0](https://github.com/haliphax/xthulu/releases/tag/v0.11.0) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
+4. 🔒 Closed issue [#185](https://github.com/haliphax/xthulu/issues/185) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
 <!--END_SECTION:activity-->
 
