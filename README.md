@@ -12,8 +12,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/haliphax/gwskillbar/pull/1) in [haliphax/gwskillbar](https://github.com/haliphax/gwskillbar)
-2. 🗣 Commented on [#162](https://github.com/haliphax/narf/pull/162#issuecomment-3655765857) in [haliphax/narf](https://github.com/haliphax/narf)
+1. ❌ Closed PR [#1](https://github.com/haliphax/gwskillbar/pull/1) in [haliphax/gwskillbar](https://github.com/haliphax/gwskillbar)
+2. 💪 Opened PR [#1](https://github.com/haliphax/gwskillbar/pull/1) in [haliphax/gwskillbar](https://github.com/haliphax/gwskillbar)
 3. 🗣 Commented on [#161](https://github.com/haliphax/narf/pull/161#issuecomment-3655741286) in [haliphax/narf](https://github.com/haliphax/narf)
 4. 🔒 Closed issue [#185](https://github.com/haliphax/xthulu/issues/185) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
 <!--END_SECTION:activity-->
