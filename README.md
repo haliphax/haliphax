@@ -12,9 +12,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#1](https://github.com/haliphax/gwskillbar/pull/1) in [haliphax/gwskillbar](https://github.com/haliphax/gwskillbar)
-2. 💪 Opened PR [#1](https://github.com/haliphax/gwskillbar/pull/1) in [haliphax/gwskillbar](https://github.com/haliphax/gwskillbar)
-3. 🗣 Commented on [#161](https://github.com/haliphax/narf/pull/161#issuecomment-3655741286) in [haliphax/narf](https://github.com/haliphax/narf)
-4. 🔒 Closed issue [#185](https://github.com/haliphax/xthulu/issues/185) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
+1. ℹ️ Labeled issue [#2](https://github.com/haliphax/gwskillbar/issues/2) in [haliphax/gwskillbar](https://github.com/haliphax/gwskillbar)
+2. ❗ Opened issue [#2](https://github.com/haliphax/gwskillbar/issues/2) in [haliphax/gwskillbar](https://github.com/haliphax/gwskillbar)
+3. ❌ Closed PR [#1](https://github.com/haliphax/gwskillbar/pull/1) in [haliphax/gwskillbar](https://github.com/haliphax/gwskillbar)
+4. 💪 Opened PR [#1](https://github.com/haliphax/gwskillbar/pull/1) in [haliphax/gwskillbar](https://github.com/haliphax/gwskillbar)
 <!--END_SECTION:activity-->
 
