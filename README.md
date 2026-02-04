@@ -12,9 +12,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v0.2.0](https://github.com/haliphax/gwskillbar/releases/tag/v0.2.0) in [haliphax/gwskillbar](https://github.com/haliphax/gwskillbar)
-2. 🚀 Published release [v0.1.0](https://github.com/haliphax/gwskillbar/releases/tag/v0.1.0) in [haliphax/gwskillbar](https://github.com/haliphax/gwskillbar)
-3. 🔒 Closed issue [#3](https://github.com/haliphax/gwskillbar/issues/3) in [haliphax/gwskillbar](https://github.com/haliphax/gwskillbar)
-4. ℹ️ Labeled issue [#3](https://github.com/haliphax/gwskillbar/issues/3) in [haliphax/gwskillbar](https://github.com/haliphax/gwskillbar)
+1. 🚀 Published release [v0.3.0](https://github.com/haliphax/gwskillbar/releases/tag/v0.3.0) in [haliphax/gwskillbar](https://github.com/haliphax/gwskillbar)
+2. 🚀 Published release [v0.2.0](https://github.com/haliphax/gwskillbar/releases/tag/v0.2.0) in [haliphax/gwskillbar](https://github.com/haliphax/gwskillbar)
+3. 🚀 Published release [v0.1.0](https://github.com/haliphax/gwskillbar/releases/tag/v0.1.0) in [haliphax/gwskillbar](https://github.com/haliphax/gwskillbar)
+4. 🔒 Closed issue [#3](https://github.com/haliphax/gwskillbar/issues/3) in [haliphax/gwskillbar](https://github.com/haliphax/gwskillbar)
 <!--END_SECTION:activity-->
 
