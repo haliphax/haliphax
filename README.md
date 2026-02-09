@@ -12,9 +12,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1705](https://github.com/gwdevhub/GWToolboxpp/issues/1705#issuecomment-3873848675) in [gwdevhub/GWToolboxpp](https://github.com/gwdevhub/GWToolboxpp)
-2. 🚀 Published release [v0.11.6](https://github.com/haliphax/gwskillbar/releases/tag/v0.11.6) in [haliphax/gwskillbar](https://github.com/haliphax/gwskillbar)
-3. 🚀 Published release [v0.11.5](https://github.com/haliphax/gwskillbar/releases/tag/v0.11.5) in [haliphax/gwskillbar](https://github.com/haliphax/gwskillbar)
-4. 💪 Opened PR [#4](https://github.com/haliphax/gwskillbar/pull/4) in [haliphax/gwskillbar](https://github.com/haliphax/gwskillbar)
+1. 🗣 Commented on [#1702](https://github.com/gwdevhub/GWToolboxpp/issues/1702#issuecomment-3873892959) in [gwdevhub/GWToolboxpp](https://github.com/gwdevhub/GWToolboxpp)
+2. 🗣 Commented on [#1705](https://github.com/gwdevhub/GWToolboxpp/issues/1705#issuecomment-3873848675) in [gwdevhub/GWToolboxpp](https://github.com/gwdevhub/GWToolboxpp)
+3. 🚀 Published release [v0.11.6](https://github.com/haliphax/gwskillbar/releases/tag/v0.11.6) in [haliphax/gwskillbar](https://github.com/haliphax/gwskillbar)
+4. 🚀 Published release [v0.11.5](https://github.com/haliphax/gwskillbar/releases/tag/v0.11.5) in [haliphax/gwskillbar](https://github.com/haliphax/gwskillbar)
 <!--END_SECTION:activity-->
 
