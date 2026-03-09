@@ -12,9 +12,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1724](https://github.com/gwdevhub/GWToolboxpp/issues/1724#issuecomment-3903136972) in [gwdevhub/GWToolboxpp](https://github.com/gwdevhub/GWToolboxpp)
-2. ❗ Opened issue [#1724](https://github.com/gwdevhub/GWToolboxpp/issues/1724) in [gwdevhub/GWToolboxpp](https://github.com/gwdevhub/GWToolboxpp)
-3. 🗣 Commented on [#1720](https://github.com/gwdevhub/GWToolboxpp/issues/1720#issuecomment-3887534781) in [gwdevhub/GWToolboxpp](https://github.com/gwdevhub/GWToolboxpp)
-4. ❗ Opened issue [#1720](https://github.com/gwdevhub/GWToolboxpp/issues/1720) in [gwdevhub/GWToolboxpp](https://github.com/gwdevhub/GWToolboxpp)
+1. 🎉 Merged PR [#4](https://github.com/haliphax/gwskillbar/pull/4) in [haliphax/gwskillbar](https://github.com/haliphax/gwskillbar)
+2. 🗣 Commented on [#1724](https://github.com/gwdevhub/GWToolboxpp/issues/1724#issuecomment-3903136972) in [gwdevhub/GWToolboxpp](https://github.com/gwdevhub/GWToolboxpp)
+3. ❗ Opened issue [#1724](https://github.com/gwdevhub/GWToolboxpp/issues/1724) in [gwdevhub/GWToolboxpp](https://github.com/gwdevhub/GWToolboxpp)
+4. 🗣 Commented on [#1720](https://github.com/gwdevhub/GWToolboxpp/issues/1720#issuecomment-3887534781) in [gwdevhub/GWToolboxpp](https://github.com/gwdevhub/GWToolboxpp)
 <!--END_SECTION:activity-->
 
