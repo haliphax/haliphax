@@ -12,9 +12,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#190](https://github.com/haliphax/xthulu/issues/190) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
-2. ❗ Opened issue [#190](https://github.com/haliphax/xthulu/issues/190) in [haliphax/xthulu](https://github.com/haliphax/xthulu)
-3. 🚀 Published release [v0.13.0](https://github.com/haliphax/gwskillbar/releases/tag/v0.13.0) in [haliphax/gwskillbar](https://github.com/haliphax/gwskillbar)
-4. 🚀 Published release [v0.12.1](https://github.com/haliphax/gwskillbar/releases/tag/v0.12.1) in [haliphax/gwskillbar](https://github.com/haliphax/gwskillbar)
+1. 🗣 Commented on [#159](https://github.com/haliphax/narf/pull/159#issuecomment-4033043046) in [haliphax/narf](https://github.com/haliphax/narf)
+2. 🗣 Commented on [#159](https://github.com/haliphax/narf/pull/159#issuecomment-4033041334) in [haliphax/narf](https://github.com/haliphax/narf)
+3. 🎉 Merged PR [#170](https://github.com/haliphax/narf/pull/170) in [haliphax/narf](https://github.com/haliphax/narf)
+4. 💪 Opened PR [#170](https://github.com/haliphax/narf/pull/170) in [haliphax/narf](https://github.com/haliphax/narf)
 <!--END_SECTION:activity-->
 
