@@ -12,9 +12,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#172](https://github.com/haliphax/narf/pull/172) in [haliphax/narf](https://github.com/haliphax/narf)
-2. 🗣 Commented on [#159](https://github.com/haliphax/narf/pull/159#issuecomment-4033043046) in [haliphax/narf](https://github.com/haliphax/narf)
-3. 🗣 Commented on [#159](https://github.com/haliphax/narf/pull/159#issuecomment-4033041334) in [haliphax/narf](https://github.com/haliphax/narf)
-4. 🎉 Merged PR [#170](https://github.com/haliphax/narf/pull/170) in [haliphax/narf](https://github.com/haliphax/narf)
+1. 🎉 Merged PR [#172](https://github.com/haliphax/narf/pull/172) in [haliphax/narf](https://github.com/haliphax/narf)
+2. 💪 Opened PR [#172](https://github.com/haliphax/narf/pull/172) in [haliphax/narf](https://github.com/haliphax/narf)
+3. 🗣 Commented on [#159](https://github.com/haliphax/narf/pull/159#issuecomment-4033043046) in [haliphax/narf](https://github.com/haliphax/narf)
+4. 🗣 Commented on [#159](https://github.com/haliphax/narf/pull/159#issuecomment-4033041334) in [haliphax/narf](https://github.com/haliphax/narf)
 <!--END_SECTION:activity-->
 
