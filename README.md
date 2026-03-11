@@ -12,9 +12,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#172](https://github.com/haliphax/narf/pull/172) in [haliphax/narf](https://github.com/haliphax/narf)
-2. 💪 Opened PR [#172](https://github.com/haliphax/narf/pull/172) in [haliphax/narf](https://github.com/haliphax/narf)
-3. 🗣 Commented on [#159](https://github.com/haliphax/narf/pull/159#issuecomment-4033043046) in [haliphax/narf](https://github.com/haliphax/narf)
-4. 🗣 Commented on [#159](https://github.com/haliphax/narf/pull/159#issuecomment-4033041334) in [haliphax/narf](https://github.com/haliphax/narf)
+1. 🗣 Commented on [#10](https://github.com/haliphax/nubbins/pull/10#issuecomment-4042618172) in [haliphax/nubbins](https://github.com/haliphax/nubbins)
+2. 🗣 Commented on [#9](https://github.com/haliphax/nubbins/pull/9#issuecomment-4042618109) in [haliphax/nubbins](https://github.com/haliphax/nubbins)
+3. 🗣 Commented on [#12](https://github.com/haliphax/nubbins/pull/12#issuecomment-4042611048) in [haliphax/nubbins](https://github.com/haliphax/nubbins)
+4. 🎉 Merged PR [#15](https://github.com/haliphax/nubbins/pull/15) in [haliphax/nubbins](https://github.com/haliphax/nubbins)
 <!--END_SECTION:activity-->
 
