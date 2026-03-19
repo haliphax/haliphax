@@ -12,9 +12,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#7](https://github.com/haliphax-openclaw/openclaw-canvas-web/issues/7) in [haliphax-openclaw/openclaw-canvas-web](https://github.com/haliphax-openclaw/openclaw-canvas-web)
-2. ❗ Opened issue [#7](https://github.com/haliphax-openclaw/openclaw-canvas-web/issues/7) in [haliphax-openclaw/openclaw-canvas-web](https://github.com/haliphax-openclaw/openclaw-canvas-web)
-3. ℹ️ Labeled issue [#6](https://github.com/haliphax-openclaw/openclaw-canvas-web/issues/6) in [haliphax-openclaw/openclaw-canvas-web](https://github.com/haliphax-openclaw/openclaw-canvas-web)
-4. ❗ Opened issue [#6](https://github.com/haliphax-openclaw/openclaw-canvas-web/issues/6) in [haliphax-openclaw/openclaw-canvas-web](https://github.com/haliphax-openclaw/openclaw-canvas-web)
+1. ℹ️ Labeled issue [#8](https://github.com/haliphax-openclaw/openclaw-canvas-web/issues/8) in [haliphax-openclaw/openclaw-canvas-web](https://github.com/haliphax-openclaw/openclaw-canvas-web)
+2. ❗ Opened issue [#8](https://github.com/haliphax-openclaw/openclaw-canvas-web/issues/8) in [haliphax-openclaw/openclaw-canvas-web](https://github.com/haliphax-openclaw/openclaw-canvas-web)
+3. ℹ️ Labeled issue [#7](https://github.com/haliphax-openclaw/openclaw-canvas-web/issues/7) in [haliphax-openclaw/openclaw-canvas-web](https://github.com/haliphax-openclaw/openclaw-canvas-web)
+4. ❗ Opened issue [#7](https://github.com/haliphax-openclaw/openclaw-canvas-web/issues/7) in [haliphax-openclaw/openclaw-canvas-web](https://github.com/haliphax-openclaw/openclaw-canvas-web)
 <!--END_SECTION:activity-->
 
