@@ -12,9 +12,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#8](https://github.com/haliphax-openclaw/openclaw-canvas-web/issues/8) in [haliphax-openclaw/openclaw-canvas-web](https://github.com/haliphax-openclaw/openclaw-canvas-web)
-2. 🎉 Merged PR [#9](https://github.com/haliphax-openclaw/openclaw-canvas-web/pull/9) in [haliphax-openclaw/openclaw-canvas-web](https://github.com/haliphax-openclaw/openclaw-canvas-web)
-3. 💪 Opened PR [#9](https://github.com/haliphax-openclaw/openclaw-canvas-web/pull/9) in [haliphax-openclaw/openclaw-canvas-web](https://github.com/haliphax-openclaw/openclaw-canvas-web)
-4. ℹ️ Labeled issue [#8](https://github.com/haliphax-openclaw/openclaw-canvas-web/issues/8) in [haliphax-openclaw/openclaw-canvas-web](https://github.com/haliphax-openclaw/openclaw-canvas-web)
+1. 💪 Opened PR [#2](https://github.com/haliphax-openclaw/skills/pull/2) in [haliphax-openclaw/skills](https://github.com/haliphax-openclaw/skills)
+2. 💪 Opened PR [#10](https://github.com/haliphax-openclaw/openclaw-canvas-web/pull/10) in [haliphax-openclaw/openclaw-canvas-web](https://github.com/haliphax-openclaw/openclaw-canvas-web)
+3. 🔒 Closed issue [#8](https://github.com/haliphax-openclaw/openclaw-canvas-web/issues/8) in [haliphax-openclaw/openclaw-canvas-web](https://github.com/haliphax-openclaw/openclaw-canvas-web)
+4. 🎉 Merged PR [#9](https://github.com/haliphax-openclaw/openclaw-canvas-web/pull/9) in [haliphax-openclaw/openclaw-canvas-web](https://github.com/haliphax-openclaw/openclaw-canvas-web)
 <!--END_SECTION:activity-->
 
