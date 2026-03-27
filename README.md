@@ -12,9 +12,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/haliphax-openclaw/openclaw-tools-mcp-server/pull/1) in [haliphax-openclaw/openclaw-tools-mcp-server](https://github.com/haliphax-openclaw/openclaw-tools-mcp-server)
-2. ℹ️ Unassigned issue [#15](https://github.com/haliphax/rodario/issues/15) in [haliphax/rodario](https://github.com/haliphax/rodario)
-3. ℹ️ Unassigned issue [#1](https://github.com/haliphax/supybot-dropboxwatch/issues/1) in [haliphax/supybot-dropboxwatch](https://github.com/haliphax/supybot-dropboxwatch)
-4. ℹ️ Unassigned issue [#1](https://github.com/haliphax/aperture/issues/1) in [haliphax/aperture](https://github.com/haliphax/aperture)
+1. ❌ Closed PR [#1](https://github.com/haliphax-openclaw/openclaw-tools-mcp-server/pull/1) in [haliphax-openclaw/openclaw-tools-mcp-server](https://github.com/haliphax-openclaw/openclaw-tools-mcp-server)
+2. 💪 Opened PR [#1](https://github.com/haliphax-openclaw/openclaw-tools-mcp-server/pull/1) in [haliphax-openclaw/openclaw-tools-mcp-server](https://github.com/haliphax-openclaw/openclaw-tools-mcp-server)
+3. ℹ️ Unassigned issue [#15](https://github.com/haliphax/rodario/issues/15) in [haliphax/rodario](https://github.com/haliphax/rodario)
+4. ℹ️ Unassigned issue [#1](https://github.com/haliphax/supybot-dropboxwatch/issues/1) in [haliphax/supybot-dropboxwatch](https://github.com/haliphax/supybot-dropboxwatch)
 <!--END_SECTION:activity-->
 
