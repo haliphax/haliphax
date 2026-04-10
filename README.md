@@ -12,7 +12,7 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#494](https://github.com/haliphax/ktor-starter-project/pull/494) in [haliphax/ktor-starter-project](https://github.com/haliphax/ktor-starter-project)
+1. ❗ Opened issue [#1](https://github.com/haliphax-openclaw/shoggoth/issues/1) in [haliphax-openclaw/shoggoth](https://github.com/haliphax-openclaw/shoggoth)
 2. ❌ Closed PR [#1](https://github.com/haliphax-openclaw/openclaw-tools-mcp-server/pull/1) in [haliphax-openclaw/openclaw-tools-mcp-server](https://github.com/haliphax-openclaw/openclaw-tools-mcp-server)
 3. 💪 Opened PR [#1](https://github.com/haliphax-openclaw/openclaw-tools-mcp-server/pull/1) in [haliphax-openclaw/openclaw-tools-mcp-server](https://github.com/haliphax-openclaw/openclaw-tools-mcp-server)
 4. ℹ️ Unassigned issue [#15](https://github.com/haliphax/rodario/issues/15) in [haliphax/rodario](https://github.com/haliphax/rodario)
