@@ -12,9 +12,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#2](https://github.com/haliphax-openclaw/shoggoth/issues/2) in [haliphax-openclaw/shoggoth](https://github.com/haliphax-openclaw/shoggoth)
-2. ❗ Opened issue [#1](https://github.com/haliphax-openclaw/shoggoth/issues/1) in [haliphax-openclaw/shoggoth](https://github.com/haliphax-openclaw/shoggoth)
-3. 💪 Opened PR [#1](https://github.com/haliphax-openclaw/openclaw-tools-mcp-server/pull/1) in [haliphax-openclaw/openclaw-tools-mcp-server](https://github.com/haliphax-openclaw/openclaw-tools-mcp-server)
+1. 🔒 Closed issue [#2](https://github.com/haliphax-openclaw/shoggoth/issues/2) in [haliphax-openclaw/shoggoth](https://github.com/haliphax-openclaw/shoggoth)
+2. ❗ Opened issue [#2](https://github.com/haliphax-openclaw/shoggoth/issues/2) in [haliphax-openclaw/shoggoth](https://github.com/haliphax-openclaw/shoggoth)
+3. ❗ Opened issue [#1](https://github.com/haliphax-openclaw/shoggoth/issues/1) in [haliphax-openclaw/shoggoth](https://github.com/haliphax-openclaw/shoggoth)
 4. ℹ️ Unassigned issue [#15](https://github.com/haliphax/rodario/issues/15) in [haliphax/rodario](https://github.com/haliphax/rodario)
 <!--END_SECTION:activity-->
 
