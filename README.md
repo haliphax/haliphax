@@ -12,9 +12,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#2](https://github.com/haliphax-openclaw/shoggoth/issues/2) in [haliphax-openclaw/shoggoth](https://github.com/haliphax-openclaw/shoggoth)
-2. ❗ Opened issue [#2](https://github.com/haliphax-openclaw/shoggoth/issues/2) in [haliphax-openclaw/shoggoth](https://github.com/haliphax-openclaw/shoggoth)
-3. ❗ Opened issue [#1](https://github.com/haliphax-openclaw/shoggoth/issues/1) in [haliphax-openclaw/shoggoth](https://github.com/haliphax-openclaw/shoggoth)
-4. ℹ️ Unassigned issue [#15](https://github.com/haliphax/rodario/issues/15) in [haliphax/rodario](https://github.com/haliphax/rodario)
+1. ℹ️ Labeled issue [#1](https://github.com/haliphax-openclaw/shoggoth/issues/1) in [haliphax-openclaw/shoggoth](https://github.com/haliphax-openclaw/shoggoth)
+2. 🔒 Closed issue [#2](https://github.com/haliphax-openclaw/shoggoth/issues/2) in [haliphax-openclaw/shoggoth](https://github.com/haliphax-openclaw/shoggoth)
+3. ❗ Opened issue [#2](https://github.com/haliphax-openclaw/shoggoth/issues/2) in [haliphax-openclaw/shoggoth](https://github.com/haliphax-openclaw/shoggoth)
+4. ❗ Opened issue [#1](https://github.com/haliphax-openclaw/shoggoth/issues/1) in [haliphax-openclaw/shoggoth](https://github.com/haliphax-openclaw/shoggoth)
 <!--END_SECTION:activity-->
 
