@@ -12,9 +12,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#6](https://github.com/haliphax-openclaw/shoggoth/pull/6) in [haliphax-openclaw/shoggoth](https://github.com/haliphax-openclaw/shoggoth)
-2. 💪 Opened PR [#6](https://github.com/haliphax-openclaw/shoggoth/pull/6) in [haliphax-openclaw/shoggoth](https://github.com/haliphax-openclaw/shoggoth)
-3. ℹ️ Labeled issue [#1](https://github.com/haliphax-openclaw/shoggoth/issues/1) in [haliphax-openclaw/shoggoth](https://github.com/haliphax-openclaw/shoggoth)
-4. 🔒 Closed issue [#2](https://github.com/haliphax-openclaw/shoggoth/issues/2) in [haliphax-openclaw/shoggoth](https://github.com/haliphax-openclaw/shoggoth)
+1. ❗ Opened issue [#8](https://github.com/haliphax-openclaw/shoggoth/issues/8) in [haliphax-openclaw/shoggoth](https://github.com/haliphax-openclaw/shoggoth)
+2. 🎉 Merged PR [#6](https://github.com/haliphax-openclaw/shoggoth/pull/6) in [haliphax-openclaw/shoggoth](https://github.com/haliphax-openclaw/shoggoth)
+3. 💪 Opened PR [#6](https://github.com/haliphax-openclaw/shoggoth/pull/6) in [haliphax-openclaw/shoggoth](https://github.com/haliphax-openclaw/shoggoth)
+4. ℹ️ Labeled issue [#1](https://github.com/haliphax-openclaw/shoggoth/issues/1) in [haliphax-openclaw/shoggoth](https://github.com/haliphax-openclaw/shoggoth)
 <!--END_SECTION:activity-->
 
