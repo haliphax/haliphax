@@ -12,9 +12,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#8](https://github.com/haliphax-openclaw/shoggoth/issues/8) in [haliphax-openclaw/shoggoth](https://github.com/haliphax-openclaw/shoggoth)
-2. ℹ️ Labeled issue [#9](https://github.com/haliphax-openclaw/shoggoth/issues/9) in [haliphax-openclaw/shoggoth](https://github.com/haliphax-openclaw/shoggoth)
-3. ❗ Opened issue [#9](https://github.com/haliphax-openclaw/shoggoth/issues/9) in [haliphax-openclaw/shoggoth](https://github.com/haliphax-openclaw/shoggoth)
-4. ❗ Opened issue [#8](https://github.com/haliphax-openclaw/shoggoth/issues/8) in [haliphax-openclaw/shoggoth](https://github.com/haliphax-openclaw/shoggoth)
+1. ℹ️ Labeled issue [#8](https://github.com/haliphax-ai/shoggoth/issues/8) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+2. ℹ️ Labeled issue [#9](https://github.com/haliphax-ai/shoggoth/issues/9) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+3. ❗ Opened issue [#9](https://github.com/haliphax-ai/shoggoth/issues/9) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+4. ❗ Opened issue [#8](https://github.com/haliphax-ai/shoggoth/issues/8) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
 <!--END_SECTION:activity-->
 
