@@ -12,9 +12,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#12](https://github.com/haliphax-ai/shoggoth/issues/12) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
-2. 🔒 Closed issue [#13](https://github.com/haliphax-ai/shoggoth/issues/13) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
-3. ℹ️ Labeled issue [#13](https://github.com/haliphax-ai/shoggoth/issues/13) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
-4. ❗ Opened issue [#13](https://github.com/haliphax-ai/shoggoth/issues/13) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+1. ℹ️ Labeled issue [#14](https://github.com/haliphax-ai/shoggoth/issues/14) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+2. ❗ Opened issue [#14](https://github.com/haliphax-ai/shoggoth/issues/14) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+3. 🔒 Closed issue [#12](https://github.com/haliphax-ai/shoggoth/issues/12) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+4. 🔒 Closed issue [#13](https://github.com/haliphax-ai/shoggoth/issues/13) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
 <!--END_SECTION:activity-->
 
