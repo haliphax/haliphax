@@ -12,9 +12,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#28](https://github.com/haliphax-ai/shoggoth/issues/28) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
-2. ❗ Opened issue [#28](https://github.com/haliphax-ai/shoggoth/issues/28) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
-3. 🎉 Merged PR [#27](https://github.com/haliphax-ai/shoggoth/pull/27) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
-4. 🔒 Closed issue [#25](https://github.com/haliphax-ai/shoggoth/issues/25) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+1. ℹ️ Labeled issue [#29](https://github.com/haliphax-ai/shoggoth/issues/29) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+2. ❗ Opened issue [#29](https://github.com/haliphax-ai/shoggoth/issues/29) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+3. ℹ️ Labeled issue [#28](https://github.com/haliphax-ai/shoggoth/issues/28) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+4. ❗ Opened issue [#28](https://github.com/haliphax-ai/shoggoth/issues/28) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
 <!--END_SECTION:activity-->
 
