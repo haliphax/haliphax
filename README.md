@@ -12,9 +12,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#49](https://github.com/haliphax-ai/shoggoth/pull/49) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
-2. 🎉 Merged PR [#51](https://github.com/haliphax-ai/shoggoth/pull/51) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
-3. 💪 Opened PR [#51](https://github.com/haliphax-ai/shoggoth/pull/51) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
-4. 🎉 Merged PR [#50](https://github.com/haliphax-ai/shoggoth/pull/50) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+1. 💪 Opened PR [#52](https://github.com/haliphax-ai/shoggoth/pull/52) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+2. ℹ️ Labeled PR [#49](https://github.com/haliphax-ai/shoggoth/pull/49) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+3. 🎉 Merged PR [#51](https://github.com/haliphax-ai/shoggoth/pull/51) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+4. 💪 Opened PR [#51](https://github.com/haliphax-ai/shoggoth/pull/51) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
 <!--END_SECTION:activity-->
 
