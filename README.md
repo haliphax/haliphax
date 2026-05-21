@@ -12,9 +12,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#57](https://github.com/haliphax-ai/shoggoth/pull/57) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
-2. 🎉 Merged PR [#56](https://github.com/haliphax-ai/shoggoth/pull/56) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
-3. 💪 Opened PR [#56](https://github.com/haliphax-ai/shoggoth/pull/56) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
-4. 🎉 Merged PR [#55](https://github.com/haliphax-ai/shoggoth/pull/55) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+1. 💪 Opened PR [#18](https://github.com/yokai-game/yokai/pull/18) in [yokai-game/yokai](https://github.com/yokai-game/yokai)
+2. 💪 Opened PR [#57](https://github.com/haliphax-ai/shoggoth/pull/57) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+3. 🎉 Merged PR [#56](https://github.com/haliphax-ai/shoggoth/pull/56) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+4. 💪 Opened PR [#56](https://github.com/haliphax-ai/shoggoth/pull/56) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
 <!--END_SECTION:activity-->
 
