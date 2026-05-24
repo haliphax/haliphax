@@ -12,9 +12,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#22](https://github.com/yokai-game/yokai/pull/22) in [yokai-game/yokai](https://github.com/yokai-game/yokai)
-2. 🎉 Merged PR [#21](https://github.com/yokai-game/yokai/pull/21) in [yokai-game/yokai](https://github.com/yokai-game/yokai)
-3. 💪 Opened PR [#21](https://github.com/yokai-game/yokai/pull/21) in [yokai-game/yokai](https://github.com/yokai-game/yokai)
-4. 🎉 Merged PR [#20](https://github.com/yokai-game/yokai/pull/20) in [yokai-game/yokai](https://github.com/yokai-game/yokai)
+1. 🎉 Merged PR [#24](https://github.com/yokai-game/yokai/pull/24) in [yokai-game/yokai](https://github.com/yokai-game/yokai)
+2. 💪 Opened PR [#24](https://github.com/yokai-game/yokai/pull/24) in [yokai-game/yokai](https://github.com/yokai-game/yokai)
+3. ❌ Closed PR [#23](https://github.com/yokai-game/yokai/pull/23) in [yokai-game/yokai](https://github.com/yokai-game/yokai)
+4. 💪 Opened PR [#23](https://github.com/yokai-game/yokai/pull/23) in [yokai-game/yokai](https://github.com/yokai-game/yokai)
 <!--END_SECTION:activity-->
 
