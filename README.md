@@ -12,9 +12,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#24](https://github.com/yokai-game/yokai/pull/24) in [yokai-game/yokai](https://github.com/yokai-game/yokai)
-2. 💪 Opened PR [#24](https://github.com/yokai-game/yokai/pull/24) in [yokai-game/yokai](https://github.com/yokai-game/yokai)
-3. ❌ Closed PR [#23](https://github.com/yokai-game/yokai/pull/23) in [yokai-game/yokai](https://github.com/yokai-game/yokai)
-4. 💪 Opened PR [#23](https://github.com/yokai-game/yokai/pull/23) in [yokai-game/yokai](https://github.com/yokai-game/yokai)
+1. ℹ️ Labeled issue [#25](https://github.com/yokai-game/yokai/issues/25) in [yokai-game/yokai](https://github.com/yokai-game/yokai)
+2. 🗣 Commented on [#25](https://github.com/yokai-game/yokai/issues/25#issuecomment-4530986000) in [yokai-game/yokai](https://github.com/yokai-game/yokai)
+3. ❗ Opened issue [#25](https://github.com/yokai-game/yokai/issues/25) in [yokai-game/yokai](https://github.com/yokai-game/yokai)
+4. 🎉 Merged PR [#24](https://github.com/yokai-game/yokai/pull/24) in [yokai-game/yokai](https://github.com/yokai-game/yokai)
 <!--END_SECTION:activity-->
 
