@@ -12,9 +12,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#58](https://github.com/haliphax-ai/shoggoth/pull/58) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
-2. ℹ️ Labeled issue [#25](https://github.com/yokai-game/yokai/issues/25) in [yokai-game/yokai](https://github.com/yokai-game/yokai)
-3. 🗣 Commented on [#25](https://github.com/yokai-game/yokai/issues/25#issuecomment-4530986000) in [yokai-game/yokai](https://github.com/yokai-game/yokai)
-4. ❗ Opened issue [#25](https://github.com/yokai-game/yokai/issues/25) in [yokai-game/yokai](https://github.com/yokai-game/yokai)
+1. 💪 Opened PR [#59](https://github.com/haliphax-ai/shoggoth/pull/59) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+2. 💪 Opened PR [#58](https://github.com/haliphax-ai/shoggoth/pull/58) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+3. ℹ️ Labeled issue [#25](https://github.com/yokai-game/yokai/issues/25) in [yokai-game/yokai](https://github.com/yokai-game/yokai)
+4. 🗣 Commented on [#25](https://github.com/yokai-game/yokai/issues/25#issuecomment-4530986000) in [yokai-game/yokai](https://github.com/yokai-game/yokai)
 <!--END_SECTION:activity-->
 
