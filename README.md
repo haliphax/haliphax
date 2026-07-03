@@ -12,9 +12,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#61](https://github.com/haliphax-ai/shoggoth/pull/61) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
-2. 💪 Opened PR [#60](https://github.com/haliphax-ai/shoggoth/pull/60) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
-3. 💪 Opened PR [#59](https://github.com/haliphax-ai/shoggoth/pull/59) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
-4. 💪 Opened PR [#58](https://github.com/haliphax-ai/shoggoth/pull/58) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+1. 🗣 Commented on [#1152](https://github.com/bambulab/BambuStudio/issues/1152#issuecomment-4872078949) in [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio)
+2. 💪 Opened PR [#61](https://github.com/haliphax-ai/shoggoth/pull/61) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+3. 💪 Opened PR [#60](https://github.com/haliphax-ai/shoggoth/pull/60) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+4. 💪 Opened PR [#59](https://github.com/haliphax-ai/shoggoth/pull/59) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
 <!--END_SECTION:activity-->
 
