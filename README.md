@@ -12,9 +12,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#67](https://github.com/haliphax-ai/shoggoth/pull/67) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
-2. 💪 Opened PR [#66](https://github.com/haliphax-ai/shoggoth/pull/66) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
-3. ❌ Closed PR [#65](https://github.com/haliphax-ai/shoggoth/pull/65) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
-4. 💪 Opened PR [#65](https://github.com/haliphax-ai/shoggoth/pull/65) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+1. ❗ Opened issue [#2](https://github.com/meshsilo/meshsilo/issues/2) in [meshsilo/meshsilo](https://github.com/meshsilo/meshsilo)
+2. 💪 Opened PR [#67](https://github.com/haliphax-ai/shoggoth/pull/67) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+3. 💪 Opened PR [#66](https://github.com/haliphax-ai/shoggoth/pull/66) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+4. ❌ Closed PR [#65](https://github.com/haliphax-ai/shoggoth/pull/65) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
 <!--END_SECTION:activity-->
 
