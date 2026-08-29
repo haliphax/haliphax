@@ -18,3 +18,16 @@
 4. 🗣 Commented on [#4635](https://github.com/manyfold3d/manyfold/issues/4635#issuecomment-5113552230) in [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold)
 <!--END_SECTION:activity-->
 
+## 🏗️ Notable projects
+
+### [xthulu](https://github.com/haliphax/xthulu)
+
+Modern SSH-driven terminal bulletin board system with accompanying static site and web API. Python server; features a robust scripting engine so that operators can easily extend the system to fit their needs. Custom harness for integrating the `rich` and `textual` terminal application libraries for use over SSH.
+
+### [narf](https://github.com/haliphax/narf)
+
+Simple, collaborative story points estimation. Uses the `remult` library to share a single API definition across front- and back-end code. Server-sent events provide real-time updates to all room participants. User profiles are stored entirely in the browser in localStorage; logins are transferable by exporting and importing profile JSON.
+
+### [aethersprite](https://github.com/haliphax/athersprite)
+
+Discord.py extension package that provides a ton of quality-of-life features: easy persistent storage of settings, conversion to/from (and validation of) domain data types in settings handlers, role-based command ACLs, an interoperable REST API, roles self-service, polls (before Discord offered them natively), and much, much more!
