@@ -12,10 +12,10 @@
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#13](https://github.com/haliphax/gobot/issues/13) in [haliphax/gobot](https://github.com/haliphax/gobot)
-2. ℹ️ Labeled issue [#12](https://github.com/haliphax/gobot/issues/12) in [haliphax/gobot](https://github.com/haliphax/gobot)
-3. ❗ Opened issue [#12](https://github.com/haliphax/gobot/issues/12) in [haliphax/gobot](https://github.com/haliphax/gobot)
-4. ℹ️ Labeled issue [#11](https://github.com/haliphax/gobot/issues/11) in [haliphax/gobot](https://github.com/haliphax/gobot)
+1. ❗ Opened issue [#13](https://github.com/haliphax/gobot/issues/13) in [haliphax/gobot](https://github.com/haliphax/gobot)
+2. ❗ Opened issue [#11](https://github.com/haliphax/gobot/issues/11) in [haliphax/gobot](https://github.com/haliphax/gobot)
+3. ℹ️ Labeled issue [#14](https://github.com/haliphax/gobot/issues/14) in [haliphax/gobot](https://github.com/haliphax/gobot)
+4. ❗ Opened issue [#14](https://github.com/haliphax/gobot/issues/14) in [haliphax/gobot](https://github.com/haliphax/gobot)
 <!--END_SECTION:activity-->
 
 ## 🏗️ Notable projects
