@@ -12,10 +12,10 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#13](https://github.com/haliphax/gobot/issues/13) in [haliphax/gobot](https://github.com/haliphax/gobot)
-2. ❗ Opened issue [#11](https://github.com/haliphax/gobot/issues/11) in [haliphax/gobot](https://github.com/haliphax/gobot)
-3. ℹ️ Labeled issue [#14](https://github.com/haliphax/gobot/issues/14) in [haliphax/gobot](https://github.com/haliphax/gobot)
-4. ❗ Opened issue [#14](https://github.com/haliphax/gobot/issues/14) in [haliphax/gobot](https://github.com/haliphax/gobot)
+1. 🎉 Merged PR [#70](https://github.com/haliphax-ai/shoggoth/pull/70) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+2. 💪 Opened PR [#70](https://github.com/haliphax-ai/shoggoth/pull/70) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+3. 🎉 Merged PR [#69](https://github.com/haliphax-ai/shoggoth/pull/69) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+4. 💪 Opened PR [#69](https://github.com/haliphax-ai/shoggoth/pull/69) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
 <!--END_SECTION:activity-->
 
 ## 🏗️ Notable projects
