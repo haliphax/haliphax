@@ -12,10 +12,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#205](https://github.com/haliphax/narf/pull/205#issuecomment-5589012116) in [haliphax/narf](https://github.com/haliphax/narf)
-2. 🗣 Commented on [#166](https://github.com/haliphax/haliphax-dot-dev/pull/166#issuecomment-5588995794) in [haliphax/haliphax-dot-dev](https://github.com/haliphax/haliphax-dot-dev)
-3. 🗣 Commented on [#166](https://github.com/haliphax/haliphax-dot-dev/pull/166#issuecomment-5588532594) in [haliphax/haliphax-dot-dev](https://github.com/haliphax/haliphax-dot-dev)
-4. 🎉 Merged PR [#102](https://github.com/haliphax-ai/shoggoth/pull/102) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+1. 🗣 Commented on [#219](https://github.com/haliphax/narf/pull/219#issuecomment-5591272043) in [haliphax/narf](https://github.com/haliphax/narf)
+2. 🗣 Commented on [#218](https://github.com/haliphax/narf/pull/218#issuecomment-5591169085) in [haliphax/narf](https://github.com/haliphax/narf)
+3. 🗣 Commented on [#217](https://github.com/haliphax/narf/pull/217#issuecomment-5591094541) in [haliphax/narf](https://github.com/haliphax/narf)
+4. 🗣 Commented on [#197](https://github.com/haliphax/narf/pull/197#issuecomment-5590939363) in [haliphax/narf](https://github.com/haliphax/narf)
 <!--END_SECTION:activity-->
 
 ## 🏗️ Notable projects
