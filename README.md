@@ -22,7 +22,7 @@
 
 ### [xthulu](https://github.com/haliphax/xthulu)
 
-Modern SSH-driven terminal bulletin board system with accompanying static site and web API. Python server; features a robust scripting engine so that operators can easily extend the system to fit their needs. Custom harness for integrating the `rich` and `textual` terminal application libraries for use over SSH. Interoperable with a Vue-based static front end by way of a REST API.
+Modern SSH-driven terminal bulletin board system with accompanying static site and web API. Python server; features a robust scripting engine so that operators can easily extend the system to fit their needs. Custom harness for integrating the `rich` and `textual` terminal application libraries for use over SSH.
 
 ### [narf](https://github.com/haliphax/narf)
 
