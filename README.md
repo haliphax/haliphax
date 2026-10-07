@@ -12,10 +12,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#331](https://github.com/haliphax-ai/shoggoth/pull/331) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
-2. 💪 Opened PR [#330](https://github.com/haliphax-ai/shoggoth/pull/330) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
-3. 🎉 Merged PR [#328](https://github.com/haliphax-ai/shoggoth/pull/328) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
-4. ℹ️ Labeled issue [#329](https://github.com/haliphax-ai/shoggoth/issues/329) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+1. 💪 Opened PR [#332](https://github.com/haliphax-ai/shoggoth/pull/332) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+2. ℹ️ Labeled issue [#386](https://github.com/chojs23/concord/issues/386) in [chojs23/concord](https://github.com/chojs23/concord)
+3. ❗ Opened issue [#386](https://github.com/chojs23/concord/issues/386) in [chojs23/concord](https://github.com/chojs23/concord)
+4. 🎉 Merged PR [#330](https://github.com/haliphax-ai/shoggoth/pull/330) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
 <!--END_SECTION:activity-->
 
 ## 🏗️ Notable projects
