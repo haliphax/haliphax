@@ -12,10 +12,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#567](https://github.com/haliphax-ai/shoggoth/pull/567) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
-2. 🔒 Closed issue [#561](https://github.com/haliphax-ai/shoggoth/issues/561) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
-3. 💪 Opened PR [#567](https://github.com/haliphax-ai/shoggoth/pull/567) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
-4. 🔒 Closed issue [#484](https://github.com/haliphax-ai/shoggoth/issues/484) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+1. 🔒 Closed issue [#568](https://github.com/haliphax-ai/shoggoth/issues/568) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+2. 🗣 Commented on [#569](https://github.com/haliphax-ai/shoggoth/pull/569#issuecomment-6562520894) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+3. 🎉 Merged PR [#569](https://github.com/haliphax-ai/shoggoth/pull/569) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+4. 💪 Opened PR [#569](https://github.com/haliphax-ai/shoggoth/pull/569) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
 <!--END_SECTION:activity-->
 
 ## 🏗️ Notable projects
