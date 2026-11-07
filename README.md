@@ -12,10 +12,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#62](https://github.com/haliphax-ai/yog-client-tui/issues/62) in [haliphax-ai/yog-client-tui](https://github.com/haliphax-ai/yog-client-tui)
-2. 🎉 Merged PR [#71](https://github.com/haliphax-ai/yog-client-tui/pull/71) in [haliphax-ai/yog-client-tui](https://github.com/haliphax-ai/yog-client-tui)
-3. 💪 Opened PR [#71](https://github.com/haliphax-ai/yog-client-tui/pull/71) in [haliphax-ai/yog-client-tui](https://github.com/haliphax-ai/yog-client-tui)
-4. 🗣 Commented on [#60](https://github.com/haliphax-ai/yog-client-tui/pull/60#issuecomment-6688041262) in [haliphax-ai/yog-client-tui](https://github.com/haliphax-ai/yog-client-tui)
+1. 💪 Opened PR [#72](https://github.com/haliphax-ai/yog-client-tui/pull/72) in [haliphax-ai/yog-client-tui](https://github.com/haliphax-ai/yog-client-tui)
+2. 🎉 Merged PR [#26](https://github.com/haliphax-ai/yog/pull/26) in [haliphax-ai/yog](https://github.com/haliphax-ai/yog)
+3. 🗣 Commented on [#26](https://github.com/haliphax-ai/yog/pull/26#issuecomment-6697674991) in [haliphax-ai/yog](https://github.com/haliphax-ai/yog)
+4. 💪 Opened PR [#26](https://github.com/haliphax-ai/yog/pull/26) in [haliphax-ai/yog](https://github.com/haliphax-ai/yog)
 <!--END_SECTION:activity-->
 
 ## 🏗️ Notable projects
