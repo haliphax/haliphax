@@ -12,10 +12,10 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#35](https://github.com/haliphax-ai/yog/issues/35) in [haliphax-ai/yog](https://github.com/haliphax-ai/yog)
-2. ℹ️ Labeled issue [#35](https://github.com/haliphax-ai/yog/issues/35) in [haliphax-ai/yog](https://github.com/haliphax-ai/yog)
-3. 🎉 Merged PR [#34](https://github.com/haliphax-ai/yog/pull/34) in [haliphax-ai/yog](https://github.com/haliphax-ai/yog)
-4. 🎉 Merged PR [#94](https://github.com/haliphax-ai/yog-client-tui/pull/94) in [haliphax-ai/yog-client-tui](https://github.com/haliphax-ai/yog-client-tui)
+1. ❗ Opened issue [#38](https://github.com/haliphax-ai/yog/issues/38) in [haliphax-ai/yog](https://github.com/haliphax-ai/yog)
+2. ❗ Opened issue [#39](https://github.com/haliphax-ai/yog/issues/39) in [haliphax-ai/yog](https://github.com/haliphax-ai/yog)
+3. ℹ️ Labeled issue [#39](https://github.com/haliphax-ai/yog/issues/39) in [haliphax-ai/yog](https://github.com/haliphax-ai/yog)
+4. ℹ️ Labeled issue [#38](https://github.com/haliphax-ai/yog/issues/38) in [haliphax-ai/yog](https://github.com/haliphax-ai/yog)
 <!--END_SECTION:activity-->
 
 ## 🏗️ Notable projects
