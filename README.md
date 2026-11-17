@@ -12,10 +12,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#65](https://github.com/haliphax-ai/yog/pull/65) in [haliphax-ai/yog](https://github.com/haliphax-ai/yog)
-2. 🎉 Merged PR [#64](https://github.com/haliphax-ai/yog/pull/64) in [haliphax-ai/yog](https://github.com/haliphax-ai/yog)
-3. 💪 Opened PR [#64](https://github.com/haliphax-ai/yog/pull/64) in [haliphax-ai/yog](https://github.com/haliphax-ai/yog)
-4. 🎉 Merged PR [#63](https://github.com/haliphax-ai/yog/pull/63) in [haliphax-ai/yog](https://github.com/haliphax-ai/yog)
+1. 🎉 Merged PR [#647](https://github.com/haliphax-ai/shoggoth/pull/647) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+2. 💪 Opened PR [#647](https://github.com/haliphax-ai/shoggoth/pull/647) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+3. 🎉 Merged PR [#646](https://github.com/haliphax-ai/shoggoth/pull/646) in [haliphax-ai/shoggoth](https://github.com/haliphax-ai/shoggoth)
+4. 🎉 Merged PR [#71](https://github.com/haliphax-ai/yog/pull/71) in [haliphax-ai/yog](https://github.com/haliphax-ai/yog)
 <!--END_SECTION:activity-->
 
 ## 🏗️ Notable projects
